@@ -77,7 +77,7 @@ This project is an interactive Sales Performance Dashboard created using Tableau
 
 📷 Dashboard Screenshot
 
-![Sales Performance Dashboard](dashborad.png)
+![Sales Performance Dashboard](dashborad.png.png)
 
 📁 Dataset
 
